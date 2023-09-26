@@ -1,0 +1,1 @@
+perl /home/ech4/demultiplexed/GBS-SNP-CROP-7.pl -in /home/ech4/demultiplexed/GSC.MasterMatrix.txt -out Achmol.GenoMatrix.txt -mnHoDepth0 5 -mnHoDepth1 20 -mnHetDepth 3 -altStrength 0.85 -mnAlleleRatio 0.3 -mnCall 0.75 -mnAvgDepth 5 -mxAvgDepth 200

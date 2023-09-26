@@ -1,0 +1,1 @@
+perl /home/ech4/GBS-plate2/demultiplexed/GBS-SNP-CROP-8.pl -in /home/ech4/GBS-plate2/demultiplexed/variants/GSC.GenoMatrix.txt -out Achmol1 -b /home/ech4/GBS-plate2/demultiplexed/allplates-barcodes.txt -formats R,T,V

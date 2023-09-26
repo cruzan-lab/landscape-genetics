@@ -1,0 +1,1 @@
+perl /home/ech4/GBS-SNP-CROP-2.pl -tm /path/to/trimmomatic-0.39.jar -d SE -fq plate2_merged -t 10 -ph 33 -ad 0 -l 30 -sl 4:30 -tr 30 -m 32
