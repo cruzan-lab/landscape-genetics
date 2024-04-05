@@ -17,9 +17,14 @@ R script and population location CSV files required for generating a habitat sui
 
 R scripts used to optimize landscape features using genetic distance variables in ResistanceGA (Peterman 2018). Three scripts are provided: single surface optimization, optimization of multiple surfaces, and bootstrapping for model selection. Each script was run independently for each landscape feature and genetic distance variable. 
 
+### Qst-Fst
+R scripts used to run Qst-Fst comparisons. These scripts were adapted from Marchini et al., 2018. 
+
 ## Citations 
 
 Besnier, F., & Glover, K. A. (2013). ParallelStructure: An R package to distribute parallel runs of the population genetics program STRUCTURE on multi-core computers. _PloS One_, 8(7), e70651.
+
+Marchini, G. L., Arredondo, T. M., & Cruzan, M. B. (2018). Selective differentiation during the colonization and establishment of a newly invasive species. _Journal of Evolutionary Biology_, 31(11), 1689-1703.
 
 Melo, A. T., Bartaula, R., & Hale, I. (2016). GBS-SNP-CROP: a reference-optional pipeline for SNP discovery and plant germplasm characterization using variable length, paired-end genotyping-by-sequencing data. _BMC Bioinformatics_, 17(1), 1-15.
 
